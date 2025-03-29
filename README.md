@@ -6,7 +6,7 @@ I'm a **Master's student in Information Systems** 🎓, passionate about **front
 
 ### 🔧 Technologies & Skills  
 💻 **Frontend:** HTML, CSS, JavaScript, TypeScript, React  
-⚙️ **Backend (learning!):** Node.js, Flask, SQL
+⚙️ **Backend (learning!):** Node.js, Flask, SQL  
 🛠️ **Tools & DevOps:** Git, Webpack, AJAX, RESTful API  
 
 ### 📌 My Projects  
@@ -15,7 +15,7 @@ I'm a **Master's student in Information Systems** 🎓, passionate about **front
 🥗 [**Nutricare**](https://github.com/MandydnaM/NutriCare) - A nutrition website to promote healthy living!  
 
 ### 📫 Let's Connect!  
-💼 [LinkedIn](https://mantingcai.xyz/www.linkedin.com/in/manting-cai-539946356)
+💼 [LinkedIn](https://mantingcai.xyz/www.linkedin.com/in/manting-cai-539946356)  
 📧 Email me at `mantingcaicontact@gmail.com`  
 
 Thanks for stopping by! 💖 Happy coding! ✨  
