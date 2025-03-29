@@ -1,6 +1,6 @@
 ## 🌟 Hi there! I'm Mandy (MandydnaM) 👋  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=F08080&multiline=true&width=600&height=50&lines=Hi,+I'm+Mandy!+👋;Aspiring+Full-Stack+Developer+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=F08080&multiline=false&width=600&height=50&lines=Hi,+I'm+Mandy!+👋;Aspiring+Full-Stack+Developer+🚀)](https://git.io/typing-svg)
 
 I'm a **Master's student in Information Systems** 🎓, passionate about **front-end development** and aspiring to become a **full-stack developer**! 🚀 I have experience with **React, Node.js, TypeScript**, and more. Currently, I'm expanding my backend skills to complete the full-stack journey!  
 
@@ -13,10 +13,6 @@ I'm a **Master's student in Information Systems** 🎓, passionate about **front
 📂 [**Portfolio**](https://github.com/MandydnaM/portfolio) - My personal portfolio website!  
 📊 [**Dashboard**](https://github.com/MandydnaM/smart-energy-dashboard) - A web-based dashboard with cool data visualizations!  
 🥗 [**Nutricare**](https://github.com/MandydnaM/NutriCare) - A nutrition website to promote healthy living!  
-
-### 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MandydnaM&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MandydnaM&theme=tokyonight)  
 
 ### 📫 Let's Connect!  
 💼 [LinkedIn](https://mantingcai.xyz/www.linkedin.com/in/manting-cai-539946356)
