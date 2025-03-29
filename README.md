@@ -1,16 +1,25 @@
-## Hi there 👋
+## 🌟 Hi there! I'm Mandy (MandydnaM) 👋  
 
-<!--
-**MandydnaM/MandydnaM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=F08080&multiline=true&width=600&height=50&lines=Hi,+I'm+Mandy!+👋;Aspiring+Full-Stack+Developer+🚀)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+I'm a **Master's student in Information Systems** 🎓, passionate about **front-end development** and aspiring to become a **full-stack developer**! 🚀 I have experience with **React, Node.js, TypeScript**, and more. Currently, I'm expanding my backend skills to complete the full-stack journey!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technologies & Skills  
+💻 **Frontend:** HTML, CSS, JavaScript, TypeScript, React  
+⚙️ **Backend (learning!):** Node.js, Flask, SQL
+🛠️ **Tools & DevOps:** Git, Webpack, AJAX, RESTful API  
+
+### 📌 My Projects  
+📂 [**Portfolio**](https://github.com/MandydnaM/portfolio) - My personal portfolio website!  
+📊 [**Dashboard**](https://github.com/MandydnaM/smart-energy-dashboard) - A web-based dashboard with cool data visualizations!  
+🥗 [**Nutricare**](https://github.com/MandydnaM/NutriCare) - A nutrition website to promote healthy living!  
+
+### 📈 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MandydnaM&show_icons=true&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MandydnaM&theme=tokyonight)  
+
+### 📫 Let's Connect!  
+💼 [LinkedIn](https://mantingcai.xyz/www.linkedin.com/in/manting-cai-539946356)
+📧 Email me at `mantingcaicontact@gmail.com`  
+
+Thanks for stopping by! 💖 Happy coding! ✨  
