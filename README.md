@@ -1,7 +1,5 @@
 ## 🌟 WELCOME TO MY GITHUB PROFILE 🌟  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=F08080&multiline=true&width=700&height=70&lines=Hi,+I'm+Mandy!+👋;Aspiring+Full-Stack+Developer+🚀)](https://git.io/typing-svg)
-
 I'm a **Master's student in Information Systems** 🎓, passionate about **front-end development** and aspiring to become a **full-stack developer**! 🚀 I have experience with **React, Node.js, TypeScript**, and more. Currently, I'm expanding my backend skills to complete the full-stack journey!  
 
 ### 🔧 Technologies & Skills  
@@ -9,10 +7,6 @@ I'm a **Master's student in Information Systems** 🎓, passionate about **front
 ⚙️ **Backend (learning!):** Node.js, Java, Python, SQL, MongoDB  
 🛠️ **Tools & DevOps:** Git, Docker, AWS  
 
-### 📌 My Projects  
-📂 [**Portfolio**](https://github.com/MandydnaM/portfolio) - My personal portfolio website!  
-📊 [**Dashboard**](https://github.com/MandydnaM/smart-energy-dashboard) - A web-based dashboard with cool data visualizations!  
-🥗 [**Nutricare**](https://github.com/MandydnaM/NutriCare) - A nutrition website to promote healthy living!  
 
 ### 📫 Let's Connect!  
 💼 [LinkedIn](https://mantingcai.xyz/www.linkedin.com/in/manting-cai-539946356)  
